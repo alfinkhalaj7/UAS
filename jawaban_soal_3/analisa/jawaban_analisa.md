@@ -1,0 +1,2 @@
+# GUI
+GUI (Graphical User Interface) adalah antarmuka pengguna yang menggunakan elemen grafis seperti jendela, tombol, menu, dan ikon untuk memfasilitasi interaksi pengguna dengan program komputer. GUI memungkinkan pengguna untuk berinteraksi dengan perangkat lunak menggunakan elemen visual dan grafis yang lebih intuitif daripada antarmuka teks atau baris perintah.
